@@ -1,0 +1,138 @@
+{
+    "squadData": [
+        {
+            "squadId": 1,
+            "squadName": "Wizards",
+            "memberList": [
+                {
+                    "name": "Manojkumar C"
+                },
+                {
+                    "name": "Sai Krishna"
+                },
+                {
+                    "name": "Chaitanya"
+                }
+            ],
+            "sprint": [
+                {
+                    "squadId": 1,
+                    "sprintId": 123,
+                    "sprintName": "cobalt",
+                    "storyIdList": [
+                        {
+                            "name": "Manojkumar C",
+                            "storyId": 123
+                        },
+                        {
+                            "name": "Manojkumar C",
+                            "storyId": 1234
+                        }
+                    ]
+                },
+                {
+                    "squadId": 1,
+                    "sprintId": 1234,
+                    "sprintName": "chromimum",
+                    "storyIdList": [
+                        {
+                            "name": "Manojkumar C",
+                            "storyId": 123
+                        }
+                    ]
+                },
+                {
+                    "squadId": 1,
+                    "sprintId": 12,
+                    "sprintName": "nickel",
+                    "storyIdList": [
+                        {
+                            "name": "Manojkumar C",
+                            "storyId": 123
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "squadId": 2,
+            "squadName": "Titan",
+            "memberList": [
+                {
+                    "name": "Anand"
+                },
+                {
+                    "name": "Vidaya"
+                },
+                {
+                    "name": "Chaitanya"
+                }
+            ]
+        },
+        {
+            "squadId": 3,
+            "squadName": "Captivator",
+            "memberList": [
+                {
+                    "name": "Priyanka"
+                },
+                {
+                    "name": "Janaki"
+                },
+                {
+                    "name": "Govinda"
+                }
+            ]
+        }
+    ],
+    "sprintData": [
+        {
+            "sprintId": 1,
+            "squadName": "Wizards123",
+            "sprintName": "",
+            "memberList": [
+                {
+                    "name": "Manojkumar C"
+                },
+                {
+                    "name": "Sai Krishna"
+                },
+                {
+                    "name": "Chaitanya"
+                }
+            ]
+        },
+        {
+            "sprintId": 2,
+            "squadName": "Titan123",
+            "sprintName": "",
+            "memberList": [
+                {
+                    "name": "Anand"
+                },
+                {
+                    "name": "Vidaya"
+                },
+                {
+                    "name": "Chaitanya"
+                }
+            ]
+        },
+        {
+            "sprintId": 3,
+            "squadName": "Captivator123",
+            "sprintName": "",
+            "memberList": [
+                {
+                    "name": "Priyanka"
+                },
+                {
+                    "name": "Janaki"
+                },
+                {
+                    "name": "Govinda"
+                }
+            ]
+        }
+    ]
+}
